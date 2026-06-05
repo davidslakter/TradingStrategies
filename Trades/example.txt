@@ -1,8 +1,0 @@
-TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
-AMD    |   $10        |    $30     |   $20
-GOOGL  |   $20        |    $40     |   $20
-TSLA   |   $100       |    $94     |    -$6
-
-
-
-TOTAL PROFIT: $34.00
