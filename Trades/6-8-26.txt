@@ -1,0 +1,6 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+AMD    |   $482.56    |    $480.69 |   -$0.10
+
+NOTE: Bought 0.051807 AMD for $25.00 after the morning gap signal. Robinhood rejected the requested fractional stop_market and limit exits: "Invalid trigger for fractional order." and "Limit order quantity cannot include fractional shares." Position flattened with a market sell.
+
+TOTAL PROFIT: -$0.10
