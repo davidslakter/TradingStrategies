@@ -1,0 +1,6 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $585.04    |    OPEN    |   OPEN
+
+NOTE: Bought 0.0017 META @ $585.04 ($1.00 notional) at 1:03 PM ET. Market broadly down: SPY -1.68%, QQQ -3.24%, VIX 22.14. META showing exceptional relative strength at -0.12% vs prior close. JPM nearly flat (-0.02%) but META chosen for higher volatility/rebound potential. No positions in portfolio to sell. Order ID: 6a284755-b78f-4943-a621-274c5b508ec1
+
+TOTAL PROFIT: $0.00
