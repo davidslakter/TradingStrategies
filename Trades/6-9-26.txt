@@ -1,6 +1,10 @@
 TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
-META   |   $585.04    |    OPEN    |   OPEN
+META   |   $585.03    |   $588.89  |   +$0.01   (0.001709 shares, sold at 2:01 PM ET)
+GOOGL  |   $364.41    |   $366.13  |   +$0.00   (0.002744 shares, sold at 3:04 PM ET)
+META   |   $590.89    |    OPEN    |    OPEN     (0.001692 shares, bought at 3:04 PM ET)
 
-NOTE: Bought 0.0017 META @ $585.04 ($1.00 notional) at 1:03 PM ET. Market broadly down: SPY -1.68%, QQQ -3.24%, VIX 22.14. META showing exceptional relative strength at -0.12% vs prior close. JPM nearly flat (-0.02%) but META chosen for higher volatility/rebound potential. No positions in portfolio to sell. Order ID: 6a284755-b78f-4943-a621-274c5b508ec1
+NOTE: 1 PM run — Bought 0.001709 META @ $585.03 ($1.00 notional). Market broadly down: SPY -1.68%, QQQ -3.24%. META showing exceptional relative strength. No prior positions.
+      2 PM run — META sold at $588.89 (+$0.007). GOOGL bought @ $364.41 ($1.00 notional). GOOGL/Alphabet showing relative strength against down market.
+      3 PM run — GOOGL sold at $366.13 (+$0.005, relative strength confirmed). Market: SPY -0.33%, QQQ -1.31%. META leading all large-caps at +0.90% vs prior close, best RS in a broad selloff. Bought 0.001692 META @ $590.89 ($1.00 notional) for next hold.
 
-TOTAL PROFIT: $0.00
+TOTAL PROFIT: $0.01
