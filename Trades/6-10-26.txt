@@ -1,0 +1,16 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $580.96*   |   $580.96* |   -$0.017   (queued sell from 6-9-26, filled at open)
+MA     |   $498.50    |   $490.475 |   -$0.016   (queued buy from 6-9-26; sold 3PM round)
+XOM    |   $150.76    |   $151.300 |   +$0.004   (9AM buy; sold 3PM round)
+KO     |   $83.15     |   $83.450  |   +$0.004   (10AM buy; sold 3PM round)
+CVX    |   $190.725   |    OPEN    |    OPEN     (3PM buy, 0.005243 shares, $1.00 notional)
+
+NOTES:
+- 9AM open: Queued META sell filled @ $580.96 (-$0.017). Queued MA buy filled @ $498.50 (0.002006 sh).
+- 9AM: Separate XOM buy @ $150.76 (0.006633 shares, $1.00 notional).
+- 10AM: KO buy @ $83.15 (0.012027 shares, $1.00 notional). Market risk-off: SPY -0.40%, QQQ -0.49%.
+- 3PM: Sold MA (loss -$0.016, RS -1.02% vs SPY), XOM (profit +$0.004, RS +1.80%), KO (profit +$0.004, RS +2.56%).
+- 3PM: Bought CVX @ $190.725 ($1.00 notional). Energy sector strongest non-staples: CVX +2.05% vs SPY -0.40% = +2.45% RS.
+- Market theme: Risk-off rotation into defensives (consumer staples, energy, healthcare). Tech/financials weak.
+
+TOTAL PROFIT: -$0.025
