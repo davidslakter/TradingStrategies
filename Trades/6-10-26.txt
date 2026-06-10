@@ -1,0 +1,14 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $590.89*   |   $580.96  |   -$0.017
+MA     |   $498.50*   |   $490.475 |   -$0.016
+XOM    |   $150.76    |   $151.300 |   +$0.004
+KO     |   $83.15     |   $83.45   |   +$0.004
+CVX    |   $190.725   |   $191.770 |   +$0.005
+COP    |   $121.220   |   $121.300 |   +$0.001
+DVN    |   $46.98     |   $46.81   |   -$0.004
+APA    |   $38.29     |   QUEUED   |   ~-$0.008
+AAPL   |   QUEUED     |   OPEN     |   OPEN
+
+NOTE: Eight rounds today — energy sector dominated on oil price surge (SPY -1.58%, energy broadly +2-6%). *META and MA carried over from 6-9-26 queued orders, executed at today's open. Intraday rotation: XOM (+$0.004) → KO (+$0.004) → CVX (+$0.005) → COP (+$0.001) → DVN (-$0.004) → APA (bought @ $38.29, queued GFD sell for 6-11-26 open). Best RS today: DVN +5.74%, APA +3.77% vs SPY -1.58%. APA slightly underwater at close ($37.99 vs $38.29). After close: queued GFD buy AAPL $1.00 (~0.00342 sh @ ~$291.74) for 6-11-26 open — AAPL showed +1.90% relative strength vs SPY on a broad tech selloff day.
+
+TOTAL PROFIT: -$0.027  (est. -$0.035 if APA fills at last; AAPL position open)

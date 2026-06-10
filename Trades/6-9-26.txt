@@ -1,6 +1,8 @@
 TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
-META   |   $585.04    |    OPEN    |   OPEN
+META   |   $585.03    |   $588.89  |   +$0.007
+GOOGL  |   $364.41    |   $366.13  |   +$0.005
+META   |   $590.89    |   $580.96* |   -$0.017
 
-NOTE: Bought 0.0017 META @ $585.04 ($1.00 notional) at 1:03 PM ET. Market broadly down: SPY -1.68%, QQQ -3.24%, VIX 22.14. META showing exceptional relative strength at -0.12% vs prior close. JPM nearly flat (-0.02%) but META chosen for higher volatility/rebound potential. No positions in portfolio to sell. Order ID: 6a284755-b78f-4943-a621-274c5b508ec1
+NOTE: Three rounds. 1PM: Bought META (0.001709 sh, $1.00). 2PM: Sold META +$0.007; Bought GOOGL (0.002744 sh, $1.00). 3PM: Sold GOOGL +$0.005; Bought META again (0.001692 sh, $1.00). 4PM: Market closed, queued GFD sell META + GFD buy MA for tomorrow open. *META queued sell executed at 6-10-26 open @ $580.96.
 
-TOTAL PROFIT: $0.00
+TOTAL PROFIT: -$0.005
