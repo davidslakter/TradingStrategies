@@ -1,0 +1,15 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $585.04    |  $580.96   |   -$0.017  (0.0017 shares, queued sell executed at open 9:30 AM ET)
+MA     |   $498.50    |  $490.475  |   -$0.016  (0.002006 shares, bought at open / sold 11 AM ET)
+XOM    |   $150.76    |  $151.300  |   +$0.004  (0.006633 shares, bought at open / sold 11 AM ET)
+KO     |    $83.15    |   $83.45   |   +$0.004  (0.01202 shares, bought 10 AM ET / sold 11 AM ET)
+CVX    |   $190.725   |  $191.770  |   +$0.005  (0.005243 shares, bought 11 AM ET / sold noon ET)
+COP    |   $121.22    |  $121.30   |   +$0.001  (0.008249 shares, bought noon ET / sold 1 PM ET)
+DVN    |    $46.98    |   $46.81   |   -$0.004  (0.021286 shares, bought 1 PM ET / sold 2 PM ET)
+APA    |    $38.29    |    OPEN    |    OPEN    (0.026116 shares, bought 2 PM ET, $1.00 notional)
+
+NOTE: Risk-off rotation day. SPY -0.86%, QQQ -1.16%. Energy sector leading: oil prices surged (USO +2.90%).
+DVN was top energy mover +6.38% but declined since purchase; sold at small loss.
+APA bought as second-strongest energy stock (+4.70% vs SPY -0.86% = +5.56% RS).
+
+TOTAL PROFIT: -$0.023
