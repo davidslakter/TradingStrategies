@@ -1,0 +1,14 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $580.96    |   $580.96  |   -$0.017   (queued sell from 6-9; 0.001692 shares, filled at open ~9:30 AM ET)
+MA     |   $498.50    |   $490.48  |   -$0.016   (queued buy from 6-9; 0.002006 shares; sold 11 AM ET)
+XOM    |   $150.76    |   $151.30  |   +$0.004   (bought at open; 0.006633 shares; sold 11 AM ET)
+KO     |   $83.15     |   $83.45   |   +$0.004   (bought ~10 AM ET; 0.01202 shares; sold 11 AM ET)
+CVX    |   $190.725   |   $191.770 |   +$0.005   (bought 11 AM ET; 0.005243 shares; sold noon ET)
+COP    |   $121.220   |   $121.300 |   +$0.001   (bought noon ET; 0.008249 shares; sold 1 PM ET)
+DVN    |   $46.980    |    OPEN    |    OPEN     (bought 1 PM ET; 0.021280 shares; strongest RS +6.57% vs SPY -0.92%)
+
+NOTE: Risk-off rotation day. SPY -0.92%, QQQ -1.38%. Energy sector dominant all day.
+Energy RS rankings: DVN +6.57%, APA +5.22%, MPC +4.07%, COP +3.88%, VLO +3.72%.
+Strategy: ride energy momentum 1-hour holds. DVN (Devon Energy) chosen as best buy — strongest relative strength.
+
+TOTAL PROFIT: -$0.019
