@@ -1,0 +1,14 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $590.89    |  $580.96   |   -$0.017  (carry sell from 6-9-26, 0.001692 sh)
+MA     |   $498.50    |  $490.48   |   -$0.016  (carry buy/same-day sell, 0.002006 sh)
+XOM    |   $150.76    |  $151.30   |   +$0.004  (0.006633 sh, 9AM-11AM EDT)
+KO     |   $83.14     |  $83.45    |   +$0.004  (0.012027 sh, 10AM-11AM EDT)
+CVX    |   $190.73    |  $191.77   |   +$0.005  (0.005243 sh, 11AM-noon EDT)
+COP    |   $121.22    |  $121.28   |   +$0.001  (0.008249 sh, noon-1PM EDT)
+DVN    |   $46.98     |  $46.81    |   -$0.004  (0.021286 sh, 1PM-2PM EDT)
+APA    |   $38.29     |  PENDING   |   PENDING  (0.026116 sh, sell GFD queued for 6-11 open, est. -$0.008)
+AAPL   |   $291.74    |  OPEN      |   OPEN     (buy $1.00 GFD queued for 6-11 open, ~0.003420 sh)
+
+NOTE: Risk-off day. SPY -1.58%, QQQ -2.00%. Oil price surge drove energy sector (DVN +5.77%, APA +3.77%). Consumer staples (KO +2.75%) and AAPL (+0.32%) showed defensive strength. Traded energy all day, rotating through CVX -> COP -> DVN -> APA. APA carry sell + AAPL buy queued for 6-11-26 open.
+
+TOTAL PROFIT: -$0.027  (closed trades only; APA pending ~-$0.008 additional)
