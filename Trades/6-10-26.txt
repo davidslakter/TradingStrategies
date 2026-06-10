@@ -1,0 +1,13 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $591.02    |    OPEN*   |   -$0.015 (est.)
+MA     |   OPEN*      |    OPEN    |   OPEN
+XOM    |   OPEN*      |    OPEN    |   OPEN
+
+NOTE: All three orders are GFD/regular_hours and will execute at the 9:30 AM ET open.
+- META SELL: 0.001692 shares queued from 6-9-26 session. Avg cost $591.02, pre-market ~$582.00. Est. loss ~-$0.015. Sell order ID: 6a28724b-101d-4f62-b3b7-68de6c803857
+- MA BUY: $1.00 notional queued from 6-9-26 session. Pre-market price ~$497.55 (+0.47% vs prior close). Financial sector showing relative strength. Buy order ID: 6a287252-83ab-4997-9ec3-dfd026457e0d
+- XOM BUY: $1.00 notional placed 9:04 AM ET. Pre-market price ~$150.37 (+0.91% vs prior close). Energy sector best pre-market performer with SPY -0.53% and QQQ -0.90%. Strongest relative strength in broad scan. Buy order ID: 6a2960f2-465e-410d-bde2-19169a3da0ac
+
+Market context at 9:04 AM ET: SPY pre-market -0.53%, QQQ -0.90%. Tech weak (NVDA -1.63%, MSFT -1.17%, TSLA -0.93%). Energy leading (XOM +0.91%, CVX +0.83%), financials mixed (MA +0.47%), consumer staples strong (WMT +0.52%).
+
+TOTAL PROFIT: -$0.015 (est., pending open fills)
