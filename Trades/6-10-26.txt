@@ -1,0 +1,25 @@
+TICKER | PRICE BOUGHT | PRICE SOLD | PROFIT/LOSS
+META   |   $580.96    |  $580.96   |  -$0.017   (queued GFD from 6-9-26 close, executed at open)
+MA     |   $498.50    |  $490.475  |  -$0.016   (bought at open 9AM UTC, sold 3PM UTC)
+XOM    |   $150.76    |  $151.300  |  +$0.004   (bought at open 9AM UTC, sold 3PM UTC)
+KO     |   $83.15     |   $83.45   |  +$0.004   (bought 2PM UTC / 10AM EDT, sold 3PM UTC)
+CVX    |   $190.730   |  $191.770  |  +$0.005   (bought 3PM UTC / 11AM EDT, sold 4PM UTC)
+COP    |   $121.220   |    OPEN    |   OPEN     (bought 4PM UTC / noon EDT, 0.008249 shares)
+
+NOTE (9AM open, UTC): Sold META queued from prior session @ $580.96, loss -$0.017. 
+Bought MA $1.00 @ $498.50 (0.002006 shares) — financials showing relative strength.
+Bought XOM $1.00 @ $150.76 (0.006633 shares) — energy pre-market strength.
+Market context: risk-off day, energy + defensives outperforming.
+
+NOTE (10AM EDT / 2PM UTC): Sold MA @ $490.475, loss -$0.016 (MA weakening intraday).
+Sold XOM @ $151.300, profit +$0.004.
+Sold KO @ $83.45, profit +$0.004 (consumer staples exceptional strength +2.77% day).
+Bought CVX $1.00 @ $190.725 (0.005243 shares) — energy sector leading with CVX +2.45% RS vs SPY.
+KO bought earlier at $83.15 (0.01202 shares). SPY -0.74%, QQQ -0.96% on the day.
+
+NOTE (noon EDT / 4PM UTC): Sold CVX @ $191.7701, profit +$0.005 (1hr hold complete, +0.54%).
+Bought COP $1.00 @ $121.2199 (0.008249 shares) — COP is strongest E&P today: +3.72% vs SPY -0.74% = +4.46% RS.
+Full energy sector scan: COP +4.46% RS > MPC +4.31% > PSX +3.92% > OXY +3.73% > CVX +3.41%.
+COP selected as top relative strength play for next hour.
+
+TOTAL PROFIT: -$0.020
